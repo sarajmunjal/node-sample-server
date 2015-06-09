@@ -1,0 +1,9 @@
+{
+  "status": 200,
+  "headers": {
+    "x-sample": "sample header value"
+  },
+  "data": {
+    "message": "Sample message"
+  }
+}
